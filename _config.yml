@@ -3,3 +3,5 @@ logo: /Images/Subject 7.png
 description: Data Scientist
 show_downloads: False
 theme: jekyll-theme-minimal
+
+<link rel="stylesheet" href="{{ '/custom.css' | relative_url }}">
